@@ -1,10 +1,10 @@
 <h1 align="center">Hi, <i>I'm Kryp70n</i></h1>
+<div align='center'>
+<img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="100" height="100" />
+        </div>
 <h3 align="center">i'm learning anything</h3>
 <p align="left">
-    <div align='center'>
-<img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="150" height="150" />
-        </div>
- <div align='center'>
+    
 div align='center'>
 <img src="https://c.tenor.com/qdZL-I064VMAAAAC/pcorn.gif" align="center" width="498" height="277" />
         </div>
