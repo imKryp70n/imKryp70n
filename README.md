@@ -5,6 +5,10 @@
 <img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="150" height="150" />
         </div>
  <div align='center'>
+div align='center'>
+<img src="https://c.tenor.com/qdZL-I064VMAAAAC/pcorn.gif" align="center" width="498" height="277" />
+        </div>
+ <div align='center'>
     <h3>Now i'm learning:</h3>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 <p><a href="https://ko-fi.com//kryp70n"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="/kryp70n" /></a></p><br><br>
