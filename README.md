@@ -1,6 +1,7 @@
 <h1 align="center">Hi, <i>I'm Kryp70n</i></h1>
 <div align='center'>
 <img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="100" height="100" />
+        <a href="https://ibb.co/pZ9Rwps"><img src="https://i.ibb.co/HYkx4QM/banner-2.png" alt="banner-2" border="0"></a>
         </div>   
 <div align='center'>
     <h3>Now i'm learning:</h3>
