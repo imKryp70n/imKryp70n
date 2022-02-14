@@ -1,5 +1,3 @@
-<h1 align="center">Hi, <i>I'm Kryp70n</i></h1>
-
 <div align='center'>
         <a href="https://ibb.co/pZ9Rwps"><img src="https://i.ibb.co/HYkx4QM/banner-2.png" alt="banner-2" border="0"></a>
         </div>   
