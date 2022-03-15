@@ -1,5 +1,5 @@
 <div align='center'>
-        <a href="https://ibb.co/pZ9Rwps"><img src="https://i.ibb.co/HYkx4QM/banner-2.png" alt="banner-2" border="0"></a>
+        <!--<a href="https://ibb.co/pZ9Rwps"><img src="https://i.ibb.co/HYkx4QM/banner-2.png" alt="banner-2" border="0"></a>-->
         </div>   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imKryp70n&show_icons=true)  
