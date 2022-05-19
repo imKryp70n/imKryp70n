@@ -2,7 +2,7 @@
         <!--<a href="https://ibb.co/pZ9Rwps"><img src="https://i.ibb.co/HYkx4QM/banner-2.png" alt="banner-2" border="0"></a>-->
         </div>    
 <div align='center'>
-        <img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="100" height="100" /><br>
+        <img src="https://c.tenor.com/H3cgKrzO9ZsAAAAC/kotomi-san-girl.gif" align="center" width="200" height="200" /><br>
 </div>
         
 <div align='center'>
